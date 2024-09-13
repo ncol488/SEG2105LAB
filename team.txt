@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Jess
 Nicole Ao
-
+=======
+Nicole Ao
+>>>>>>> 0103660 (Nicole txt commit)
