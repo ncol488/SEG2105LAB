@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Jess
+=======
+Justin Lee
+>>>>>>> 3fc84c1 (Lab 1 Part 2 Justin Lee)
